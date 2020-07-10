@@ -24,7 +24,7 @@ I'm a **`Javascript developer`** 🤗 and I'm ready for discussions and making n
 
 - 🌱 I’m currently learning: `Redis` ~ I always learning 🆕 things 🤣
 - 💌 Feel Free to Contact me [@SrunScotty](https://www.facebook.com/srun.scotty.7)
-- ⚡ Fun fact: I love coffee ☕ and I also like to play around a little with [`📱 Flutter`](https://flutter.dev/) and [`🐍 Python`](https://www.python.org/)
+- ⚡ Fun fact: I love coffee ☕ and I also like to play around a little with [`📱 Flutter`](https://flutter.dev/), [`🐍 Python`](https://www.python.org/) and [`🐘 PHP`](https://www.php.net/).
 
 [![ProfileViews](http://hits.dwyl.com/ChumSrun/ChumSrun.svg)](https://github.com/ChumSrun)
  
