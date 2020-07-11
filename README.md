@@ -26,6 +26,8 @@ I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussio
 - 💌 Feel Free to Contact me [@SrunScotty](https://www.facebook.com/srun.scotty.7)
 - ⚡ Fun fact: I love coffee ☕ and I also like to play around a little with [`📱 Flutter`](https://flutter.dev/), [`🐍 Python`](https://www.python.org/) and [`🐘 PHP`](https://www.php.net/).
 
+[![ProfileViews](https://ena75enh6x2epdq.m.pipedream.net/)](https://github.com/ChumSrun)
+
 <details>
  <summary>How old are you ?</summary>
  
@@ -39,8 +41,6 @@ I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussio
  <summary>What are you currently doing ?</summary>
  I'm working on few side projects while job seeking. And also taking some online courses.
 </details>
-
-[![ProfileViews](https://ena75enh6x2epdq.m.pipedream.net/)](https://github.com/ChumSrun)
 
 [`📫 chumsrun@gmail.com`](mailto:chumsrun@gmail.com)
 
