@@ -1,8 +1,6 @@
 <h3 align="center">💖 Hey there 👋 How are you doing? 🍀</h3>
 <p align="center"><img src="https://github.com/ChumSrun/ChumSrun/raw/master/corgi-typing.gif"></p>
 
-![Busy](https://github.com/ChumSrun/ChumSrun/raw/master/corgi-typing.gif)
-
 ## `📝 I'm currently working on something,🚀 I will be back on social media soon ~ 19th July 💚. 📔`
 ⋅⋅⋅ [@SrunScotty'Facebook/Telegram](https://www.facebook.com/srun.scotty.7)
 
