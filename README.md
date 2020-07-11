@@ -11,8 +11,8 @@ I'm a **`Javascript developer`** 🤗 and I'm ready for discussions and making n
 #### Languages and Tools:
 <p align='center'>
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/vue.png">&nbsp;&nbsp;
-<img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/node.png">&nbsp;&nbsp;
-<img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/expressjs.png">&nbsp;&nbsp;
+<img height="33" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/node.png">&nbsp;&nbsp;
+<img height="29" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/expressjs.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/mongo.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/socketio.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/nuxtjs.png">&nbsp;&nbsp;
@@ -26,7 +26,7 @@ I'm a **`Javascript developer`** 🤗 and I'm ready for discussions and making n
 - 💌 Feel Free to Contact me [@SrunScotty](https://www.facebook.com/srun.scotty.7)
 - ⚡ Fun fact: I love coffee ☕ and I also like to play around a little with [`📱 Flutter`](https://flutter.dev/), [`🐍 Python`](https://www.python.org/) and [`🐘 PHP`](https://www.php.net/).
 
-[![ProfileViews](http://hits.dwyl.com/ChumSrun/ChumSrun.svg)](https://github.com/ChumSrun)
+[![ProfileViews](https://ena75enh6x2epdq.m.pipedream.net/)](https://github.com/ChumSrun)
  
 
 [`📫 chumsrun@gmail.com`](mailto:chumsrun@gmail.com)
@@ -34,4 +34,6 @@ I'm a **`Javascript developer`** 🤗 and I'm ready for discussions and making n
 
 <h5 align="center">🔮 😅 Want to Check My Repos ? 🐱‍👤 ⏬</h5>
 
-<!--- [comment]: # ( [![ProfileViews](https://visitor-badge.glitch.me/badge?page_id=ChumSrun.ChumSrun)](https://github.com/ChumSrun) ) -->
+<!--- [comment]: # ( [![ProfileViews](https://visitor-badge.glitch.me/badge?page_id=ChumSrun.ChumSrun)](https://github.com/ChumSrun) )
+[![ProfileViews](http://hits.dwyl.com/ChumSrun/ChumSrun.svg)](https://github.com/ChumSrun)
+-->
