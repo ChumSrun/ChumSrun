@@ -8,9 +8,9 @@
 
 I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussions and making new projects. 🐱‍🚀
 
-##### My Values: `🙌 Shared consensus` `💝 Trust` `🐣 Beginners mindset`
+#### My Values: `🙌 Shared consensus` `💝 Trust` `🐣 Beginner's mindset`
 
-##### My Languages and Tools:
+#### My Languages and Tools:
 <p align='center'>
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/vue.png">&nbsp;&nbsp;
 <img height="33" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/node.png">&nbsp;&nbsp;
