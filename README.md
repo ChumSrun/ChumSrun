@@ -6,11 +6,12 @@
 
 <a href="https://github.com/ChumSrun"><img align="left" src="https://github.com/ChumSrun/ChumSrun/raw/master/hello.gif"></img></a>
 
-I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussions and making new projects. 🐱‍🚀
+I'm a **`Javascript developer`** and tech-savvy 🤗. I'm ready for discussions and making new projects. 🐱‍🚀 
+<samp> Interested in working on backend: API, Databases... </samp>
 
 #### My Values: `🙌 Shared consensus` `💝 Trust` `🐣 Beginner's mindset`
 
-#### My Languages and Tools:
+#### My Languages and Tools 🔥:
 <p align='center'>
 <img height="30" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/vue.png">&nbsp;&nbsp;
 <img height="33" src="https://github.com/ChumSrun/ChumSrun/raw/master/icon/node.png">&nbsp;&nbsp;
@@ -23,7 +24,7 @@ I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussio
 </p>
 
 - 🌱 I’m currently learning: `Redis` ~ I always learning 🆕 things 🤣
-- 💌 Feel Free to Contact me [@SrunScotty](https://www.facebook.com/srun.scotty.7)
+- 💌 Feel free to chat with me [@SrunScotty](https://www.facebook.com/srun.scotty.7)
 - ⚡ Fun fact: I love coffee ☕ and I also like to play around a little with [`📱 Flutter`](https://flutter.dev/) and [`🐘 PHP`](https://www.php.net/).
 
 [![ProfileViews](https://ena75enh6x2epdq.m.pipedream.net/)](https://github.com/ChumSrun)
@@ -39,7 +40,7 @@ I'm a **`Javascript developer`** and tech-savvy 🤗 and I'm ready for discussio
 </details>
 <details>
  <summary>What are you currently doing ?</summary>
- I'm working on few side projects while job seeking. And also taking some online courses.
+ I'm working on few side projects while 🕵️‍♂️ job seeking. And also taking some 📚 online courses.
 </details>
 
 [`📫 chumsrun@gmail.com`](mailto:chumsrun@gmail.com)
