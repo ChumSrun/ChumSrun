@@ -1,7 +1,6 @@
 <h3 align="center">💖 Hey there 👋 How are you doing? 🍀</h3>
 <p align="center"><img src="https://github.com/ChumSrun/ChumSrun/raw/master/corgi-typing.gif"></p>
 
-## `📝 I'm currently working on something,🚀 I will be back on social media soon ~ 19th July 💚. 📔`
 ⋅⋅⋅ [@SrunScotty'Facebook/Telegram](https://www.facebook.com/srun.scotty.7)
 
 <a href="https://github.com/ChumSrun"><img align="left" src="https://github.com/ChumSrun/ChumSrun/raw/master/hello.gif"></img></a>
@@ -35,7 +34,7 @@ I'm a **`Javascript developer`** and tech-savvy 🤗. I'm ready for discussions 
  <summary>How old are you ?</summary>
  
  ```javascript
- const yearBornIn = 1999;
+ const yearBornIn = 1998;
  alert(new Date().getFullYear()-yearBornIn);
  ```
  
